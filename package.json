@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@passwordless-id/webauthn": "^1.2.4",
     "@simplewebauthn/browser": "^7.4.0",
     "@simplewebauthn/server": "^7.4.0",
     "@types/node": "20.4.10",
